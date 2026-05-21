@@ -38,3 +38,5 @@ font-size: 18px;
 
 </body>
 </html>
+
+<img src="https://via.placeholder.com/200">
