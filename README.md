@@ -1,13 +1,11 @@
-<p id="msg">This is my new website</p>
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Website</title>
+</head>
 
-<button onclick="document.getElementById('msg').innerHTML='You clicked me! 🎉'">
-  Click me
-</button>
-<p id="secret" style="display:none;">Hello 👀</p>
-
-<button onclick="document.getElementById('secret').style.display='block'">
-  Show Message
-</button>
-<button onclick="document.body.style.backgroundColor='red'">
-  Change Color
-</button>
+<body>
+<h1>Hello World</h1>
+<p>My first webpage</p>
+</body>
+</html>
