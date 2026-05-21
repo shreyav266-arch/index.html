@@ -31,3 +31,12 @@ Click Me
 
 </body>
 </html>
+<h1>Shreya's Website</h1>
+
+<img src="https://via.placeholder.com/150">
+
+<br><br>
+
+<a href="https://youtube.com">
+<button>Open YouTube</button>
+</a>
