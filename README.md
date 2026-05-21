@@ -3,8 +3,10 @@
 <head>
   <title>My Website</title>
 </head>
-<body>
-  <h1>Hello!</h1>
-  <p>This is my new website 😊</p>
+<body style="text-align:center; font-family: Arial;">
+  <h1>Hello 👋</h1>
+  <p>This is my new website</p>
+
+  <button onclick="alert('Welcome!')">Click me</button>
 </body>
 </html>
