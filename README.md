@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>My First Website</title>
+  <title>My Website</title>
 </head>
 <body>
-  <h1>Welcome to My Website</h1>
-  <p>I created this website using GitHub Pages on mobile.</p>
+  <h1>Welcome to my website</h1>
+  <p>This is my first GitHub Pages site.</p>
 </body>
 </html>
