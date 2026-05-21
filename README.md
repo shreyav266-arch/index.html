@@ -4,7 +4,7 @@
   <title>My Website</title>
 </head>
 <body>
-  <h1>Welcome to my website</h1>
-  <p>This is my first GitHub Pages site.</p>
+  <h1>Hello!</h1>
+  <p>This is my new website 😊</p>
 </body>
 </html>
